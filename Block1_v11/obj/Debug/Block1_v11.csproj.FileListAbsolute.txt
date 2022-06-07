@@ -1,0 +1,30 @@
+E:\Programs\Visual\Projects\Block1_v11\Block1_v11\bin\Debug\Block1_v11.exe.config
+E:\Programs\Visual\Projects\Block1_v11\Block1_v11\bin\Debug\Block1_v11.exe
+E:\Programs\Visual\Projects\Block1_v11\Block1_v11\bin\Debug\Block1_v11.pdb
+E:\Programs\Visual\Projects\Block1_v11\Block1_v11\obj\Debug\Block1_v11.csproj.AssemblyReference.cache
+E:\Programs\Visual\Projects\Block1_v11\Block1_v11\obj\Debug\Block1_v11.Properties.Resources.resources
+E:\Programs\Visual\Projects\Block1_v11\Block1_v11\obj\Debug\Block1_v11.csproj.GenerateResource.cache
+E:\Programs\Visual\Projects\Block1_v11\Block1_v11\obj\Debug\Block1_v11.csproj.CoreCompileInputs.cache
+E:\Programs\Visual\Projects\Block1_v11\Block1_v11\obj\Debug\Block1_v11.exe
+E:\Programs\Visual\Projects\Block1_v11\Block1_v11\obj\Debug\Block1_v11.pdb
+E:\Programs\Visual\Projects\Block1_v11\Block1_v11\obj\Debug\Block1_v11.Form1.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\Artem\Block1_v11\Block1_v11\bin\Debug\Block1_v11.exe.config
+C:\Users\mrcoo\OneDrive\Рабочий стол\Artem\Block1_v11\Block1_v11\bin\Debug\Block1_v11.exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\Artem\Block1_v11\Block1_v11\bin\Debug\Block1_v11.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.csproj.AssemblyReference.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.Form1.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.Properties.Resources.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.csproj.GenerateResource.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.csproj.CoreCompileInputs.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.pdb
+E:\Programs\Visual\Projects\z.Artem\Block1_v11\Block1_v11\bin\Debug\Block1_v11.exe.config
+E:\Programs\Visual\Projects\z.Artem\Block1_v11\Block1_v11\bin\Debug\Block1_v11.exe
+E:\Programs\Visual\Projects\z.Artem\Block1_v11\Block1_v11\bin\Debug\Block1_v11.pdb
+E:\Programs\Visual\Projects\z.Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.csproj.AssemblyReference.cache
+E:\Programs\Visual\Projects\z.Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.Form1.resources
+E:\Programs\Visual\Projects\z.Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.Properties.Resources.resources
+E:\Programs\Visual\Projects\z.Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.csproj.GenerateResource.cache
+E:\Programs\Visual\Projects\z.Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.csproj.CoreCompileInputs.cache
+E:\Programs\Visual\Projects\z.Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.exe
+E:\Programs\Visual\Projects\z.Artem\Block1_v11\Block1_v11\obj\Debug\Block1_v11.pdb
